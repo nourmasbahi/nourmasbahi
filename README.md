@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Nour
 
-<!--
-**nourmasbahi/nourmasbahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Data Science and Engineering  
+📈 Passionate about turning data into meaningful business insights  
+💼 Aspiring Data Analyst focused on marketing, sales, and customer behavior
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Skills
+- Python (Pandas, NumPy, Seaborn, Matplotlib)
+- SQL (Ms SQL Server, MySQL)
+- Power BI / Tableau
+- Excel, Git, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📫 Let’s Connect!
+- LinkedIn: [linkedin.com/in/nour-el-islam-masbahi](https://www.linkedin.com/in/nour-el-islam-masbahi-66694b185/)
