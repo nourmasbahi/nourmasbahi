@@ -9,8 +9,3 @@
 - SQL (Ms SQL Server, MySQL)
 - Power BI / Tableau
 - Excel, Git, Jupyter Notebook
-
-
-
-## 📫 Let’s Connect!
-- LinkedIn: [linkedin.com/in/nour-el-islam-masbahi](https://www.linkedin.com/in/nour-el-islam-masbahi-66694b185/)
